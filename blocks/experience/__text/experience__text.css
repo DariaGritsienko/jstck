@@ -1,0 +1,9 @@
+.experience__text{
+  font-size: 20px;
+  line-height: 27px;
+  color: #898E93;
+  z-index: 1;
+  margin: 0;
+  font-weight: 500;
+  max-width: 69%;
+}

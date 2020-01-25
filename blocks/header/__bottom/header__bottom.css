@@ -1,0 +1,10 @@
+.header__bottom{
+  font-size: 24px;
+  line-height: 33px;
+  color: #898E93;
+  z-index: 1;
+  padding-top: 13px;
+  margin-bottom: 39px;
+  max-width: 30%;
+  font-weight: 500;
+}

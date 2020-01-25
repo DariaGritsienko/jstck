@@ -1,0 +1,6 @@
+.our__container{
+  display: flex;
+  flex-direction: column;
+  align-self: center;
+  max-width: 47%;
+}

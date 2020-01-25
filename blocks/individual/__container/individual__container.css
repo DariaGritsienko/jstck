@@ -1,0 +1,7 @@
+.individual__container{
+  display: flex;
+  flex-direction: column;
+  align-self: center;
+  max-width: 619px;
+  padding-left: 5%;
+}

@@ -1,0 +1,23 @@
+@import url(../vendor/normalize.css);
+@import url(../vendor/fonts.css);
+@import url(../blocks/page/page.css);
+@import url(../blocks/menu/menu.css);
+@import url(../blocks/logo/logo.css);
+@import url(../blocks/header/header.css);
+@import url(../blocks/button/button.css);
+@import url(../blocks/marketplaces/marketplaces.css);
+@import url(../blocks/how-it-works/how-it-works.css);
+@import url(../blocks/our/our.css);
+@import url(../blocks/clients/clients.css);
+@import url(../blocks/fees/fees.css);
+@import url(../blocks/business/business.css);
+@import url(../blocks/experience/experience.css);
+@import url(../blocks/individual/individual.css);
+@import url(../blocks/jstick/jstick.css);
+@import url(../blocks/paragraph/paragraph.css);
+@import url(../blocks/leadform/leadform.css);
+@import url(../blocks/footer/footer.css);
+
+body {
+  background-color: #fff;
+}

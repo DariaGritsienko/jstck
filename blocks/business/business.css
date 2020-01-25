@@ -1,0 +1,10 @@
+@import url(./__image/business__image.css);
+@import url(./__container/business__container.css);
+@import url(./__text/business__text.css);
+@import url(./__title/business__title.css);
+@import url(./__elements/business__elements.css);
+
+.business{
+  background-color: #fff;
+  width: 100%;
+}

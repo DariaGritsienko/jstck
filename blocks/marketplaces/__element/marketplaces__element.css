@@ -1,0 +1,7 @@
+.marketplaces__element{
+  margin: 0;
+}
+
+.marketplaces__element:hover{
+  opacity: 0.6;
+}

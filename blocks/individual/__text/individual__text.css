@@ -1,0 +1,10 @@
+.individual__text{
+  font-size: 20px;
+  line-height: 27px;
+  color: #898E93;
+  z-index: 1;
+  margin-top: 0px;
+  padding-bottom: 50px;
+  max-width: 77%;
+  font-weight: 500;
+}

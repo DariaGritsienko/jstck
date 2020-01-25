@@ -1,0 +1,7 @@
+.jstick__container{
+  display: flex;
+  flex-direction: column;
+  align-self: center;
+  max-width: 40%;
+  padding-right: 4%;
+}

@@ -1,0 +1,17 @@
+.fees__element{
+  max-width: 31%;
+  background-color: #fff;
+  display: flex;
+  position: relative;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding-bottom: 22%;
+}
+
+.fees__element:nth-child(2){
+  max-width: 35%;
+}
+
+.fees__element:last-child{
+  margin: 0;
+}

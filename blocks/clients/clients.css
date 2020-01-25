@@ -1,0 +1,13 @@
+@import url(./__client/clients__client.css);
+@import url(./__content-title/clients__content-title.css);
+@import url(./__container/clients__container.css);
+@import url(./__info/clients__info.css);
+@import url(./__name/clients__name.css);
+@import url(./__photo/clients__photo.css);
+@import url(./__review/clients__review.css);
+
+.clients{
+  width: 100%;
+  margin: 0px auto 189px auto;
+  padding-top: 104px;
+}

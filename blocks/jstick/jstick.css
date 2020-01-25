@@ -1,0 +1,13 @@
+@import url(./__image/jstick__image.css);
+@import url(./__container/jstick__container.css);
+@import url(./__span/jstick__span.css);
+@import url(./__text/jstick__text.css);
+@import url(./__title/jstick__title.css);
+@import url(./__elements/jstick__elements.css);
+
+.jstick{
+  width: 100%;
+  background-color: #fff;
+  padding-bottom: 104px;
+  padding-top: 160px;
+}

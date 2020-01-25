@@ -1,0 +1,13 @@
+@import url(./__content-title/leadform__content-title.css);
+@import url(./__form/leadform__form.css);
+@import url(./__input/leadform__input.css);
+@import url(./__text/leadform__text.css);
+@import url(./__button/leadform__button.css);
+@import url(./__container/leadform__container.css);
+
+.leadform{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: #F2F5F8;
+}

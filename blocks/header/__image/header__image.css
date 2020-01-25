@@ -1,0 +1,9 @@
+.header__image{
+  position: absolute;
+  align-self: flex-end;
+  padding-top: 18px;
+  margin-left: 65px;
+  width: 842px;
+  height: 413px;
+  background-image: url(../../../images/stock-vector-creative-team-characters.png);
+}

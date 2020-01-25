@@ -1,0 +1,10 @@
+.clients__content-title{
+  font-size: 40px;
+  line-height: 124%;
+  text-align: center;
+  margin: 0px auto 45px auto;
+  color: #00376E;
+  font-weight: 700;
+  max-width: 1440px;
+  width: 100%;
+}

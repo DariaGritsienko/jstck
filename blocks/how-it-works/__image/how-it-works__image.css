@@ -1,0 +1,6 @@
+.how-it-works__image{
+  width: 175px;
+  height: 165px;
+  border-radius: 50%;
+  box-shadow: 0px 6px 17px rgba(1, 30, 60, 0.15);
+}

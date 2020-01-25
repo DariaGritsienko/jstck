@@ -1,0 +1,11 @@
+.experience__title{
+  color: #00376E;
+  font-weight: 700;
+  font-size: 80px;
+  line-height: 124%;
+  display: flex;
+  flex-direction: column;
+  margin: 0;
+  height: 89px;
+  max-width: 70%;
+}

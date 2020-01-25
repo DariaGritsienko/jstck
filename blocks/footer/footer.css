@@ -1,0 +1,16 @@
+@import url(./__contacts/footer__contacts.css);
+@import url(./__container/footer__container.css);
+@import url(./__icon/footer__icon.css);
+@import url(./__link/footer__link.css);
+@import url(./__product/footer__product.css);
+@import url(./__social-icons/footer__social-icons.css);
+@import url(./__text/footer__text.css);
+@import url(./__title/footer__title.css);
+@import url(./__logo/footer__logo.css);
+@import url(./__span/footer__span.css);
+@import url(./__elements/footer__elements.css);
+
+.footer{
+  background-color: #000;
+  width: 100%;
+}

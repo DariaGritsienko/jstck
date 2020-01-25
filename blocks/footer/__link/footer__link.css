@@ -1,0 +1,15 @@
+.footer__link{
+  color: #979797;
+  margin-bottom: 1%;
+  text-decoration: none;
+  font-size: 13px;
+  line-height: 22px;
+}
+
+.footer__link:last-child{
+  margin-bottom: 0;
+}
+
+.footer__link:hover{
+  color: #fff;
+}

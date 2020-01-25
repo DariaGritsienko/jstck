@@ -1,0 +1,10 @@
+.business__elements{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-bottom: 0;
+  padding-top: 76px;
+  max-width: 1396px;
+  width: 100%;
+  margin: 0 auto;
+}

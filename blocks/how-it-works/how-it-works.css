@@ -1,0 +1,13 @@
+@import url(./__container/how-it-works__container.css);
+@import url(./__content-title/how-it-works__content-title.css);
+@import url(./__element/how-it-works__element.css);
+@import url(./__image/how-it-works__image.css);
+@import url(./__text/how-it-works__text.css);
+
+.how-it-works{
+  margin: 0;
+  display: flex;
+  align-items: center;
+  padding-top: 75px;
+  flex-direction: column;
+}

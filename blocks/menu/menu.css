@@ -1,0 +1,10 @@
+@import url(./__link-item/menu__link-item.css);
+@import url(./__button/menu__button.css);
+@import url(./__button-link/menu__button-link.css);
+
+.menu {
+  min-height: 70px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}

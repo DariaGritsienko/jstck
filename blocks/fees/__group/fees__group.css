@@ -1,0 +1,9 @@
+.fees__group{
+  display: flex;
+  margin-bottom: 5%;
+  align-items: baseline;
+}
+
+.fees__group:last-child{
+  margin-bottom: 0;
+}

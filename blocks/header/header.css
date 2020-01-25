@@ -1,0 +1,17 @@
+@import url(./__bottom/header__bottom.css);
+@import url(./__top/header__top.css);
+@import url(./__button/header__button.css);
+
+.header {
+  display: flex;
+  padding-top: 128px;
+  flex-direction: column;
+  position: relative;
+  justify-content: flex-start;
+  padding-left: 7%;
+  margin-bottom: 114px;
+  background-position: right;
+  background-repeat: no-repeat;
+  background-position-y: bottom;
+  background-image: url(../../images/stock-vector-creative-team-characters.png);
+}

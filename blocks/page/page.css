@@ -1,0 +1,10 @@
+@import url(./__section/page__section.css);
+
+.page {
+  background-color: #fff;
+  min-height: 100vh;
+  overflow: hidden;
+  font-family: 'Open Sans', Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}

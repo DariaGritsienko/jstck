@@ -1,0 +1,7 @@
+.business__container{
+  display: flex;
+  flex-direction: column;
+  padding-left: 11%;
+  max-width: 558px;
+  margin: 0;
+}

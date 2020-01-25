@@ -1,0 +1,7 @@
+.clients__client{
+  max-width: 39%;
+}
+
+.clients__client:last-child{
+  margin-right: 0;
+}

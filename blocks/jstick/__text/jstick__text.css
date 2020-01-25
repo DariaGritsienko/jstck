@@ -1,0 +1,11 @@
+.jstick__text{
+  display: flex;
+  flex-direction: column;
+  font-size: 20px;
+  line-height: 27px;
+  color: #898E93;
+  z-index: 1;
+  margin: 0;
+  padding-bottom: 26px;
+  font-weight: 500;
+}

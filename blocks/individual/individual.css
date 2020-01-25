@@ -1,0 +1,11 @@
+@import url(./__image/individual__image.css);
+@import url(./__container/individual__container.css);
+@import url(./__text/individual__text.css);
+@import url(./__title/individual__title.css);
+@import url(./__elements/individual__elements.css);
+
+.individual{
+  background-color: #fff;
+  align-items: center;
+  width: 100%;
+}

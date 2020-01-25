@@ -1,0 +1,6 @@
+.fees__list{
+  display: flex;
+  flex-direction: column;
+  max-width: 89%;
+  min-height: 232px;
+}

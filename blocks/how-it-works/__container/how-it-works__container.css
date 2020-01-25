@@ -1,0 +1,7 @@
+.how-it-works__container{
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  max-width: 1152px;;
+  padding-bottom: 180px;
+}
